@@ -1,0 +1,41 @@
+[8;40;160t
+$[clear]
+[ [38;2;255;0;0mL[38;2;255;14;14ma[38;2;255;28;28my[38;2;255;42;42me[38;2;255;56;56mr[38;2;255;70;70m [38;2;255;85;85m4[38;2;255;99;99m [38;2;255;113;113mU[38;2;255;127;127mD[38;2;255;141;141mP[38;2;255;155;155m [38;2;255;170;170mM[38;2;255;184;184me[38;2;255;198;198mt[38;2;255;212;212mh[38;2;255;226;226mo[38;2;255;240;240md[38;2;255;255;255ms[0m[1;37m ]
+[1;37m  │ dns                    [[38;2;255;0;0mUNPROTECTED[1;37m] DNS flood overwhelms name servers with massive forged query traffic.
+[1;37m  │ udp                    [[38;2;0;255;0mPROTECTED[1;37m] UDP flood overwhelms target with massive spoofed datagram traffic.
+[1;37m  │ ldap                   [[38;2;255;0;0mUNPROTECTED[1;37m] LDAP flood overwhelms directory servers with excessive bulk bind requests.
+[1;37m  │ ssdp                   [[38;2;255;0;0mUNPROTECTED[1;37m] SSDP flood overwhelms devices by flooding them with discovery requests.
+[1;37m  │ home                   [[38;2;255;0;0mUNPROTECTED[1;37m] Home DNS flood overwhelms a home network’s DNS server with excessive queries.
+[1;37m  │ udpbypass              [[38;2;0;255;0mPROTECTED[1;37m] UDP Bypass flood floods a target using UDP packets designed to bypass filters.
+[ [38;2;255;0;0mL[38;2;255;14;14ma[38;2;255;28;28my[38;2;255;42;42me[38;2;255;56;56mr[38;2;255;70;70m [38;2;255;85;85m4[38;2;255;99;99m [38;2;255;113;113mT[38;2;255;127;127mC[38;2;255;141;141mP[38;2;255;155;155m [38;2;255;170;170mM[38;2;255;184;184me[38;2;255;198;198mt[38;2;255;212;212mh[38;2;255;226;226mo[38;2;255;240;240md[38;2;255;255;255ms[0m[1;37m ]
+[1;37m  │ tcp                    [[38;2;0;255;0mPROTECTED[1;37m] TCP flood overwhelms target by sending excessive TCP connection requests.
+[1;37m  │ socket                 [[38;2;0;255;0mPROTECTED[1;37m] TCP socket flood exhausts server resources by opening many connections.
+[1;37m  │ ovh                    [[38;2;0;255;0mPROTECTED[1;37m] TCP socket flood exhausts server resources by opening many connections.
+[1;37m  │ tcpmix                 [[38;2;0;255;0mPROTECTED[1;37m] Combines TCP flood techniques to exhaust server resources effectively.
+[1;37m  │ tcpbypass              [[38;2;0;255;0mPROTECTED[1;37m] Sends TCP packets designed to bypass filtering defenses.
+[1;37m  │ ack                    [[38;2;0;255;0mPROTECTED[1;37m] Floods target with TCP ACK packets to disrupt connections.
+[ [38;2;255;0;0mL[38;2;255;13;13ma[38;2;255;26;26my[38;2;255;40;40me[38;2;255;53;53mr[38;2;255;67;67m [38;2;255;80;80m4[38;2;255;93;93m [38;2;255;107;107mG[38;2;255;120;120mA[38;2;255;134;134mM[38;2;255;147;147mE[38;2;255;161;161m [38;2;255;174;174mM[38;2;255;187;187me[38;2;255;201;201mt[38;2;255;214;214mh[38;2;255;228;228mo[38;2;255;241;241md[38;2;255;255;255ms[0m[1;37m ]
+[1;37m  │ game                   [[38;2;255;200;100mPROT & UNPROT[1;37m] Disrupts gameplay by flooding UDP packets to server.
+[1;37m  │ rainbow                [[38;2;255;200;100mPROT & UNPROT[1;37m] Overwhelms Rainbow Six servers with excessive UDP connection requests.
+[1;37m  │ rocket                 [[38;2;255;200;100mPROT & UNPROT[1;37m] Exhausts Rocket League server resources via many UDP connections.
+[1;37m  │ roblox                 [[38;2;255;200;100mPROT & UNPROT[1;37m] Opens numerous TCP connections to overload Roblox game servers.
+[1;37m  │ fivem                  [[38;2;255;200;100mPROT & UNPROT[1;37m] Uses mixed TCP floods to disrupt FiveM multiplayer servers.
+[1;37m  │ pubg                   [[38;2;255;200;100mPROT & UNPROT[1;37m] Bypasses filters flooding PUBG servers with crafted UDP packets.
+[1;37m  │ fortnite               [[38;2;255;200;100mPROT & UNPROT[1;37m] Floods Fortnite servers with UDP packets, causing lag.
+[1;37m  │ warthunder             [[38;2;255;200;100mPROT & UNPROT[1;37m] Disrupts War Thunder gameplay by sending massive UDP floods.
+[1;37m  │ counter                [[38;2;255;200;100mPROT & UNPROT[1;37m] Floods Counter-Strike servers with UDP packets to cause delays.
+[1;37m  │ samp                   [[38;2;255;200;100mPROT & UNPROT[1;37m] Overloads San Andreas Multiplayer servers using TCP/UDP flood attacks.
+[ [38;2;255;0;0mL[38;2;255;18;18ma[38;2;255;36;36my[38;2;255;54;54me[38;2;255;72;72mr[38;2;255;91;91m [38;2;255;109;109m3[38;2;255;127;127m [38;2;255;145;145mM[38;2;255;163;163me[38;2;255;182;182mt[38;2;255;200;200mh[38;2;255;218;218mo[38;2;255;236;236md[38;2;255;255;255ms[0m[1;37m ]
+[1;37m  │ subnet                 [[38;2;0;255;0mPROTECTED[1;37m] Sends large amounts of ICMP packets to many IPs in a subnet, overwhelming the network.
+[1;37m  │ icmp                   [[38;2;0;255;0mPROTECTED[1;37m] Uses excessive ICMP echo requests (pings) to overload the target’s network connection.
+[ [38;2;255;0;0mL[38;2;255;18;18ma[38;2;255;36;36my[38;2;255;54;54me[38;2;255;72;72mr[38;2;255;91;91m [38;2;255;109;109m7[38;2;255;127;127m [38;2;255;145;145mM[38;2;255;163;163me[38;2;255;182;182mt[38;2;255;200;200mh[38;2;255;218;218mo[38;2;255;236;236md[38;2;255;255;255ms[0m[1;37m ]
+[1;37m  │ http                   [[38;2;0;255;0mPROTECTED[1;37m] Application layer method that targets web servers via HTTP requests (malicious when used to overload services).
+[1;37m  │ https                  [[38;2;0;255;0mPROTECTED[1;37m] Same concept as HTTP but over TLS/SSL (encrypted) affects HTTPS endpoints.
+[1;37m  │ httpx                  [[38;2;0;255;0mPROTECTED[1;37m] A generic label often used for HTTP variants or multi protocol request tools at the application layer.
+[1;37m  │ rapidflood             [[38;2;0;255;0mPROTECTED[1;37m] Implies a high rate application layer request technique high impact if abused.
+[1;37m  │ tls                    [[38;2;0;255;0mPROTECTED[1;37m] Targets the encrypted application layer (TLS handshake or encrypted sessions) rather than plain HTTP.
+[1;37m  │ tlsx                   [[38;2;0;255;0mPROTECTED[1;37m] Implies attempts to evade filtering or mitigation systems at the application layer.
+[1;37m  │ bypass                 [[38;2;0;255;0mPROTECTED[1;37m] Variant label indicating TLS/HTTPS related application layer activity.
+[1;37m  │ browser                [[38;2;0;255;0mPROTECTED[1;37m] Simulates or leverages browser like traffic (headers, JS) to appear legitimate to protections.
+[1;37m  │ cache                  [[38;2;0;255;0mPROTECTED[1;37m] Relates to requests that affect caching behavior (can reduce cache effectiveness when abused).
+[1;37m  │ cloudflare             [[38;2;0;255;0mPROTECTED[1;37m] HTTPs Flood Designed to Overwhelm Servers with Cloudflare Protection

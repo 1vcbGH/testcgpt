@@ -1,0 +1,15 @@
+[2025-10-20 14:38:13] User [root] launched attack - Target: [70.70.70.70] Port: [53] Method: [udp] Duration: [30]s
+[2025-10-20 14:40:20] User [root] launched attack - Target: [70.70.70.70] Port: [53] Method: [udp] Duration: [30]s
+[2025-10-20 14:40:57] User [root] launched attack - Target: [70.70.70.70] Port: [53] Method: [udp] Duration: [30]s
+[2025-10-20 14:42:59] User [root] launched attack - Target: [70.70.70.70] Port: [53] Method: [udp] Duration: [30]s
+[2025-10-22 03:28:18] User [root] launched attack - Target: [216.150.11.172] Port: [53] Method: [udp] Duration: [30]s
+[2025-10-22 03:29:54] User [root] launched attack - Target: [40.160.24.51] Port: [22] Method: [ovh] Duration: [60]s
+[2025-10-22 03:31:04] User [root] launched attack - Target: [216.150.11.172] Port: [53] Method: [udp] Duration: [60]s
+[2025-10-22 03:34:36] User [root] launched attack - Target: [https://test.zoomov.cat] Port: [443] Method: [tlsx] Duration: [60]s
+[2025-10-22 03:39:15] User [semp] launched attack - Target: [23.237.198.170] Port: [53] Method: [dns] Duration: [60]s
+[2025-10-22 03:53:36] User [semp] launched attack - Target: [https://test.zoomov.cat] Port: [443] Method: [tlsx] Duration: [60]s
+[2025-10-22 03:55:11] User [semp] launched attack - Target: [https://test.zoomov.cat] Port: [443] Method: [tlsx] Duration: [60]s
+[2025-10-22 03:57:11] User [semp] launched attack - Target: [https://graph.vshield.pro] Port: [443] Method: [BYPASS] Duration: [60]s
+[2025-10-22 04:00:37] User [semp] launched attack - Target: [https://graph.vshield.pro] Port: [443] Method: [BYPASS] Duration: [60]s
+[2025-10-22 04:01:32] User [semp] launched attack - Target: [216.150.11.172] Port: [53] Method: [dns] Duration: [60]s
+[2025-10-22 07:44:53] User [root] launched attack - Target: [https://cfcybernews.eu] Port: [443] Method: [BYPASS] Duration: [60]s
