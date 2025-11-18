@@ -1,3 +1,0 @@
-[2025-10-22 03:35:36] Admin [root] performed action [add_user] on target [semp]
-[2025-10-22 03:37:36] Admin [semp] performed action [broadcast] on target [message to all: a]
-[2025-10-22 03:37:51] Admin [semp] performed action [broadcast] on target [message to all: Test test test test]
